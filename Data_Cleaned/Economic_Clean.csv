@@ -1,0 +1,948 @@
+Country Name,Country Code,Indicator Name,Indicator Code,Year,Value,Category
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2000,97.7,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2000,3.30604249334471,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2000,5.00705524908568,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2000,4.83568028245373,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2000,15.5380770361658,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2000,23277008304.773,Agriculture
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,2000,86.38360176,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,2000,7.75988287,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2000,5.856515373,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2000,5703.0,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2000,57.03,Water
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2000,2801000.0,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2000,920.128329208632,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2000,17.5281215208016,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2000,72.6143096630536,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2000,9.68224920978206,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2000,82.2965588728357,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2000,0.521786980279743,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2000,30.5334796478076,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2000,-23.171586326496,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2000,569.881356092312,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2000,16.2011173184357,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2000,449.743305962156,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2000,25.2034726323746,Trade
+"Egypt, Arab Rep.",EGY,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,2000,70.23,Agriculture
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2000,99838543960.0763,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2000,6.37000382991766,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2000,1366.09274372613,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2000,22.8168185827697,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2000,30.7518670979123,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2000,2.68380535348546,Economy
+"Egypt, Arab Rep.",EGY,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,2000,103.8797814,Water
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2000,19.886107321376,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2000,2.16091978529782,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2000,73083284.0,Population
+"Egypt, Arab Rep.",EGY,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2000,8.3,Energy
+"Egypt, Arab Rep.",EGY,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2000,13.6830194986859,Water
+"Egypt, Arab Rep.",EGY,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2000,1.0,Water
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2000,46.5259923551896,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2000,42.7339398932519,Population
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2001,97.4,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2001,3.35325732080968,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2001,5.28784450036976,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2001,4.53444762095373,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2001,15.351268469473,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2001,24161463059.8294,Agriculture
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,2001,86.32885809,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,2001,8.185361628,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2001,5.48578028,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2001,5870.7,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2001,58.707,Water
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2001,2861000.0,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2001,966.765417722269,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2001,18.1671909896496,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2001,74.7196272904109,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2001,6.84781825604572,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2001,81.5674455464566,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2001,0.604836579332869,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2001,29.4310999389135,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2001,-17.8384305035007,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2001,634.095104088458,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2001,17.4797881237803,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2001,457.30443900734,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2001,26.0571570364759,Trade
+"Egypt, Arab Rep.",EGY,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,2001,68.8,Agriculture
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2001,96684636118.5984,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2001,3.53525197391506,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2001,1295.13741841629,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2001,22.330638416504,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2001,30.8988569835517,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2001,2.26975720475955,Economy
+"Egypt, Arab Rep.",EGY,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,2001,106.9344262,Water
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2001,18.8251212712573,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2001,2.12380362345226,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2001,74652029.0,Population
+"Egypt, Arab Rep.",EGY,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2001,7.8,Energy
+"Egypt, Arab Rep.",EGY,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2001,13.3954831957748,Water
+"Egypt, Arab Rep.",EGY,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2001,1.0,Water
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2001,46.457987175913,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2001,42.7835506765333,Population
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2002,97.5,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2002,3.4396504093626,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2002,8.10838056593754,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2002,4.40391918757702,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2002,15.4048561625758,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2002,25031398764.6604,Agriculture
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,2002,86.27562642,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,2002,8.599088838,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2002,5.125284738,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2002,6038.4,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2002,60.384,Water
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2002,2936000.0,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2002,1011.67199728401,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2002,14.4175355981612,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2002,77.7475053257091,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2002,7.60623388272227,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2002,85.3537392084314,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2002,0.613062002466644,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2002,28.399370250941,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2002,-19.2749309841277,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2002,636.526193894252,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2002,18.3161784111902,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2002,454.359673024523,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2002,27.8437606403488,Trade
+"Egypt, Arab Rep.",EGY,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,2002,74.43,Agriculture
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2002,85146067415.7303,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2002,2.39020402675626,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2002,1116.82884626212,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2002,22.6708894167326,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2002,32.5835048825547,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2002,2.73723855000334,Economy
+"Egypt, Arab Rep.",EGY,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,2002,109.989071,Water
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2002,21.5112694642385,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2002,2.10372359745955,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2002,76239137.0,Population
+"Egypt, Arab Rep.",EGY,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2002,7.3,Energy
+"Egypt, Arab Rep.",EGY,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2002,13.1166227655488,Water
+"Egypt, Arab Rep.",EGY,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2002,1.0,Water
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2002,45.5887833201372,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2002,42.8347629483917,Population
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2003,98.8,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2003,3.42458184740569,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2003,6.84090172178915,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2003,4.55839226211393,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2003,15.2867065868263,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2003,25902516657.1568,Agriculture
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,2003,86.22384497,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,2003,9.001544727,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2003,4.774610308,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2003,6206.1,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2003,62.061,Water
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2003,2906000.0,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2003,1072.59080857817,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2003,13.6778626435392,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2003,80.2370171144006,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2003,5.69849658027168,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2003,85.9355136946723,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2003,0.412226973304056,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2003,30.7899908929444,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2003,-19.3177818006607,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2003,647.539853353059,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2003,21.7964071856287,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2003,477.666896077081,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2003,25.0155801266211,Trade
+"Egypt, Arab Rep.",EGY,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,2003,77.52,Agriculture
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2003,80288461538.4615,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2003,3.19345473756772,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2003,1031.27556291283,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2003,24.3832335329341,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2003,33.3705868263473,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2003,4.50777636319303,Economy
+"Egypt, Arab Rep.",EGY,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,2003,113.0437158,Water
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2003,25.3560718562874,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2003,2.09545323003183,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2003,77853548.0,Population
+"Egypt, Arab Rep.",EGY,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2003,7.4,Energy
+"Egypt, Arab Rep.",EGY,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2003,12.8446297656209,Water
+"Egypt, Arab Rep.",EGY,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2003,1.0,Water
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2003,44.904239520958,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2003,42.8834685533792,Population
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2004,97.8,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2004,3.49389723240745,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2004,7.13655587836715,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2004,5.17280160624093,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2004,14.2699361219864,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2004,26617276756.032,Agriculture
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,2004,86.17345525,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,2004,9.393183707,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2004,4.433361042,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2004,6373.8,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2004,63.738,Water
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2004,2965000.0,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2004,1110.81832363429,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2004,12.4818606304109,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2004,71.6769168501169,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2004,15.3249291700806,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2004,87.0018460201976,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2004,1.07589413518396,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2004,32.7708615696754,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2004,-11.4646376712171,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2004,692.141360028844,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2004,28.2299608489594,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2004,541.281618887015,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2004,22.5458565929966,Trade
+"Egypt, Arab Rep.",EGY,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,2004,79.01,Agriculture
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2004,78782467532.4675,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2004,4.09207161019908,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2004,991.255689145252,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2004,29.5899443643107,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2004,34.6679167525242,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2004,11.2706193320519,Economy
+"Egypt, Arab Rep.",EGY,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,2004,116.0983607,Water
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2004,32.508501957552,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2004,2.06437734857129,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2004,79477443.0,Population
+"Egypt, Arab Rep.",EGY,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2004,7.6,Energy
+"Egypt, Arab Rep.",EGY,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2004,12.5821863695338,Water
+"Egypt, Arab Rep.",EGY,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2004,1.0,Water
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2004,45.0910776839068,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2004,42.9255593360476,Population
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2005,99.4,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2005,3.53910291827816,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2005,2.33025573417488,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2005,4.09642188922065,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2005,13.9816898792943,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2005,27483977520.3024,Agriculture
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,2005,86.12440191,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,2005,9.77443609,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2005,4.101161996,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2005,6541.5,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2005,65.415,Water
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2005,2563000.0,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2005,1175.17657364636,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2005,11.6330849204158,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2005,74.5293955285674,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2005,13.3296531419633,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2005,87.8590486705308,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2005,0.802658938264789,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2005,31.8618687474214,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2005,-22.4873418367752,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2005,778.769640304157,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2005,30.3435468895078,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2005,600.078033554428,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2005,20.0824862300595,Trade
+"Egypt, Arab Rep.",EGY,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,2005,82.76,Agriculture
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2005,89660339660.3396,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2005,4.47174447106209,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2005,1105.53920713903,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2005,32.6090993500464,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2005,34.1486722376973,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2005,4.86939696871988,Economy
+"Egypt, Arab Rep.",EGY,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,2005,119.1530055,Water
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2005,39.4388423398328,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2005,2.02220952721924,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2005,81101004.0,Population
+"Egypt, Arab Rep.",EGY,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2005,6.5,Energy
+"Egypt, Arab Rep.",EGY,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2005,12.3303035804587,Water
+"Egypt, Arab Rep.",EGY,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2005,1.0,Water
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2005,45.9292479108635,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2005,42.9569271409488,Population
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2006,99.0,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2006,3.54914862624943,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2006,1.50070896059272,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2006,3.85704477275412,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2006,13.2372025254978,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2006,28376837980.4129,Agriculture
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,2006,86.07663249,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,2006,10.14570966,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2006,3.777657852,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2006,6709.2,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2006,67.092,Water
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2006,2605000.0,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2006,1239.35308997224,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2006,11.1994939648374,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2006,74.3507759494658,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2006,13.9159669690746,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2006,88.2667429185404,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2006,0.786425433465907,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2006,32.1508922443392,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2006,-20.9366266869949,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2006,806.402489163819,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2006,29.9498138254816,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2006,586.564299424184,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2006,19.0625220502884,Trade
+"Egypt, Arab Rep.",EGY,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,2006,88.14,Agriculture
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2006,107426086956.521,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2006,6.84383819369884,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2006,1298.97900203124,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2006,31.568722680913,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2006,36.1547353084021,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2006,7.64452644526434,Economy
+"Egypt, Arab Rep.",EGY,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,2006,122.2076503,Water
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2006,40.9844584749878,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2006,1.95291342300488,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2006,82700403.0,Population
+"Egypt, Arab Rep.",EGY,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2006,6.2,Energy
+"Egypt, Arab Rep.",EGY,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2006,12.0918395040952,Water
+"Egypt, Arab Rep.",EGY,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2006,1.0,Water
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2006,44.6899951432734,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2006,42.9729991680104,Population
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2007,98.4,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2007,3.55417148023506,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2007,1.61093402185587,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2007,3.71523194179271,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2007,13.420126208378,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2007,29421105621.6776,Agriculture
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,2007,86.03009722,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,2007,10.50739113,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2007,3.462511653,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2007,6876.9,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2007,68.769,Water
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2007,2564000.0,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2007,1322.40142460106,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2007,12.3952081451941,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2007,74.4807358805712,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2007,12.4599413405365,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2007,86.9406772211078,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2007,-1.2753078822655,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2007,32.6931331876893,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2007,-19.330359795005,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2007,844.384421346475,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2007,30.2497314715359,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2007,523.166926677067,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2007,20.4260386290611,Trade
+"Egypt, Arab Rep.",EGY,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,2007,90.96,Agriculture
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2007,130437828371.278,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2007,7.08782742675582,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2007,1547.74170735908,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2007,34.828141783029,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2007,35.0653866809881,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2007,9.31896905799229,Economy
+"Egypt, Arab Rep.",EGY,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,2007,125.2622951,Water
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2007,43.1807250268528,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2007,1.88753217077119,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2007,84276225.0,Population
+"Egypt, Arab Rep.",EGY,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2007,6.0,Energy
+"Egypt, Arab Rep.",EGY,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2007,11.865742681284,Water
+"Egypt, Arab Rep.",EGY,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2007,1.0,Water
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2007,46.8939983888292,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2007,42.9729666344509,Population
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2008,99.8,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2008,3.55818976342357,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2008,1.65494219299644,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2008,3.21791741946721,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2008,12.6302400893355,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2008,30405997729.6159,Agriculture
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,2008,85.98474888,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,2008,10.85984749,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2008,3.155403629,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2008,7044.59999999999,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2008,70.446,Water
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2008,2642000.0,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2008,1360.32477759888,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2008,11.2304373766579,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2008,72.7959061911973,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2008,15.2752918139122,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2008,88.0711980051096,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2008,1.54386770082763,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2008,31.8580350973925,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2008,-21.0799337182715,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2008,859.150259001023,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2008,33.0429927414852,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2008,520.249810749432,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2008,17.8963919007813,Trade
+"Egypt, Arab Rep.",EGY,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,2008,95.02,Agriculture
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2008,162818181818.181,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2008,7.15628356711522,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2008,1896.21594269778,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2008,38.6376326074818,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2008,36.2125516471245,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2008,18.3168316831684,Economy
+"Egypt, Arab Rep.",EGY,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,2008,128.3169399,Water
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2008,45.8216638749302,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2008,1.86740413264217,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2008,85864789.0,Population
+"Egypt, Arab Rep.",EGY,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2008,5.9,Energy
+"Egypt, Arab Rep.",EGY,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2008,11.646217403504,Water
+"Egypt, Arab Rep.",EGY,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2008,1.0,Water
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2008,46.6682970407593,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2008,42.9608989120873,Population
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2009,98.9,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2009,3.70586167060123,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2009,2.11713487320648,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2009,3.33312351790293,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2009,12.9979466513145,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2009,31370020485.6042,Agriculture
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,2009,85.94054265,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,2009,11.20342724,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2009,2.856030118,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2009,7212.3,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2009,72.123,Water
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2009,2884000.0,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2009,1422.613401194,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2009,9.27022975583037,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2009,74.3211104384675,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2009,15.5921185390181,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2009,89.9132289774856,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2009,2.22784600305572,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2009,30.1243451974851,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2009,-16.965406749765,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2009,862.435116243687,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2009,24.9568221070811,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2009,483.079056865464,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2009,17.8887870071632,Trade
+"Egypt, Arab Rep.",EGY,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,2009,95.11,Agriculture
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2009,189147005444.646,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2009,4.67359980000662,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2009,2161.63964573926,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2009,31.596622529265,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2009,35.8164459796584,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2009,11.7634954386443,Economy
+"Egypt, Arab Rep.",EGY,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,2009,131.3715847,Water
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2009,35.9551026674342,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2009,1.88836522446639,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2009,87501636.0,Population
+"Egypt, Arab Rep.",EGY,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2009,5.7,Energy
+"Egypt, Arab Rep.",EGY,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2009,11.4283577509339,Water
+"Egypt, Arab Rep.",EGY,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2009,1.0,Water
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2009,46.5660621761658,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2009,42.9383470624904,Population
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2010,99.4,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2010,3.68777939625295,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2010,2.90964062724758,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2010,3.21662980142544,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2010,13.3407591579645,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2010,32459965790.8072,Agriculture
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,2010,85.8974359,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,2010,11.53846154,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2010,2.564102564,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2010,7380.0,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2010,73.8,Water
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2010,2873000.0,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2010,1611.55078667589,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2010,8.14840261078667,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2010,78.4316542269135,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2010,12.3556416101933,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2010,90.7872958371069,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2010,0.829349489397582,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2010,28.4168704658125,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2010,-15.2825420010409,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2010,838.166707475228,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2010,21.3492458146858,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2010,473.372781065088,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2010,19.1408398397826,Trade
+"Egypt, Arab Rep.",EGY,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,2010,90.02,Agriculture
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2010,218983666061.706,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2010,5.14723485746742,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2010,2455.08194645282,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2010,26.5871042599038,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2010,35.784518481684,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2010,11.2651882653185,Economy
+"Egypt, Arab Rep.",EGY,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,2010,134.4262295,Water
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2010,36.2406025194762,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2010,1.91795124102801,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2010,89196072.0,Population
+"Egypt, Arab Rep.",EGY,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2010,5.4,Energy
+"Egypt, Arab Rep.",EGY,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2010,11.2112560293013,Water
+"Egypt, Arab Rep.",EGY,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2010,1.0,Water
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2010,46.2327200397812,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2010,42.9057175520154,Population
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2011,99.4,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2011,3.63654628559947,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2011,2.61228503643708,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2011,2.99470036963744,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2011,13.8691050980964,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2011,33343513499.8155,Agriculture
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,2011,84.99651082,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,2011,13.32868109,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2011,1.674808095,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2011,7165.0,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2011,71.65,Water
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2011,2808000.0,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2011,1558.76859948242,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2011,8.24357225713521,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2011,79.6268913561677,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2011,11.0154367805835,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2011,90.6423281367512,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2011,1.38964167803286,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2011,29.3945711448604,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2011,-9.09167679579822,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2011,860.053119855617,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2011,20.5674276128655,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2011,503.561253561253,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2011,23.7536654802802,Trade
+"Egypt, Arab Rep.",EGY,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,2011,93.28,Agriculture
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2011,235989672977.624,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2011,1.7645719480604,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2011,2590.64384891965,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2011,24.6882065494858,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2011,35.9517175990081,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2011,10.0649259874818,Economy
+"Egypt, Arab Rep.",EGY,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,2011,130.5100182,Water
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2011,37.8961498067245,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2011,2.1044607622412,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2011,91093059.0,Population
+"Egypt, Arab Rep.",EGY,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2011,5.4,Energy
+"Egypt, Arab Rep.",EGY,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2011,10.9777848167334,Water
+"Egypt, Arab Rep.",EGY,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2011,1.0,Water
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2011,45.7160236306615,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2011,42.8634168470177,Population
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2012,99.7,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2012,3.71289366618112,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2012,2.37623841300075,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2012,2.85440036424217,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2012,11.2727652713918,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2012,34316925996.7593,Agriculture
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,2012,85.06224066,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,2012,13.2780083,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2012,1.659751037,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2012,7230.0,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2012,72.3,Water
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2012,2829000.0,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2012,1562.35976897672,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2012,7.98828636311056,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2012,75.96695341942,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2012,15.1954606612969,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2012,91.1624140807169,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2012,1.34192373959684,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2012,27.2199500671484,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2012,-3.82393802190274,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2012,866.240866672303,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2012,16.3969666208873,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2012,462.990455991516,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2012,22.4231286293974,Trade
+"Egypt, Arab Rep.",EGY,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,2012,98.38,Agriculture
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2012,279116666666.666,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2012,2.22619979818486,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2012,2996.0677072015,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2012,24.3148026512211,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2012,39.2513148623634,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2012,7.11172943343082,Economy
+"Egypt, Arab Rep.",EGY,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,2012,131.6939891,Water
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2012,35.3289544396011,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2012,2.24475795490011,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2012,93161001.0,Population
+"Egypt, Arab Rep.",EGY,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2012,5.3,Energy
+"Egypt, Arab Rep.",EGY,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2012,10.7341053580993,Water
+"Egypt, Arab Rep.",EGY,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2012,1.0,Water
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2012,51.771621185884,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2012,42.8118514138525,Population
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2013,99.9,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2013,3.74802350695665,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2013,2.00959867776976,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2013,2.87354645968355,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2013,11.274349602236,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2013,35347262237.1737,Agriculture
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,2013,85.06849315,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,2013,13.28767123,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2013,1.643835616,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2013,7300.0,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2013,73.0,Water
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2013,2707970.0,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2013,1504.84268639395,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2013,7.94359996430377,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2013,73.5556414909123,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2013,17.6196567213017,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2013,91.175298212214,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2013,0.822494571199095,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2013,28.1032314526204,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2013,0.751073873510621,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2013,825.189960336054,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2013,17.0178456245968,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2013,536.748930010303,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2013,17.5098909058737,Trade
+"Egypt, Arab Rep.",EGY,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,2013,96.03,Agriculture
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2013,288434108527.131,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2013,2.18546605363386,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2013,3025.52563552448,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2013,23.3551924317351,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2013,39.8869544184046,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2013,9.46971981064921,Economy
+"Egypt, Arab Rep.",EGY,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,2013,132.9690346,Water
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2013,33.0051118039131,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2013,2.30526364315625,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2013,95333553.0,Population
+"Egypt, Arab Rep.",EGY,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2013,5.3,Energy
+"Egypt, Arab Rep.",EGY,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2013,10.4894863196801,Water
+"Egypt, Arab Rep.",EGY,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2013,1.0,Water
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2013,52.3007390883681,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2013,42.7514277188751,Population
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2014,99.8,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2014,3.73217137977798,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2014,2.13992894464433,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2014,3.27388086489782,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2014,11.3377089201877,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2014,36409932461.9835,Agriculture
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,2014,84.82993197,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,2014,13.53741497,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2014,1.632653061,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2014,6070.0,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2014,60.7,Water
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2014,2640190.0,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2014,1576.47002900296,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2014,7.89134133391187,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2014,71.6889137558948,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2014,19.4360391426972,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2014,91.1249528985921,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2014,0.762243511424232,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2014,27.690460713225,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2014,8.09014484118876,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2014,832.772090858109,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2014,14.244131455399,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2014,546.968210621205,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2014,20.8840359685848,Trade
+"Egypt, Arab Rep.",EGY,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,2014,99.73,Agriculture
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2014,305595408895.265,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2014,2.91591188052835,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,3133.3910226554,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2014,22.6760563380281,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2014,39.8903239436619,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2014,10.0702154687481,Economy
+"Egypt, Arab Rep.",EGY,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,2014,110.564663,Water
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2014,30.6414943661971,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2014,2.27643956620182,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2014,97528654.0,Population
+"Egypt, Arab Rep.",EGY,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2014,5.4,Energy
+"Egypt, Arab Rep.",EGY,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2014,10.2533969145108,Water
+"Egypt, Arab Rep.",EGY,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2014,1.0,Water
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2014,52.3209859154929,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2014,42.6825522284408,Population
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2015,99.3,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2015,3.80719985936008,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2015,2.53912436920509,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2015,2.82280206551046,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2015,11.3940627685257,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2015,37528234501.3477,Agriculture
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,2015,84.37077131,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,2015,14.00541272,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2015,1.623815968,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2015,6090.0,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2015,60.9,Water
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2015,2865877.1,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2015,1566.91932601976,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2015,7.27564739564589,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2015,70.9709994682251,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2015,20.5388652246077,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2015,91.5098646928328,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2015,1.12558481809538,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2015,25.9833857159297,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2015,12.8611145617054,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2015,810.817127279737,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2015,13.1838454928597,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2015,569.459171853531,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2015,19.4566174058816,Trade
+"Egypt, Arab Rep.",EGY,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,2015,101.5,Agriculture
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2015,329366576819.407,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2015,4.37201907781687,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,3306.9815941414,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2015,21.6620974671631,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2015,36.6302017267482,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2015,10.370490343517,Economy
+"Egypt, Arab Rep.",EGY,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,2015,110.9289617,Water
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2015,25.7837333769794,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2015,2.09892554805563,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2015,99597342.0,Population
+"Egypt, Arab Rep.",EGY,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2015,5.3,Energy
+"Egypt, Arab Rep.",EGY,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2015,10.0404285889476,Water
+"Egypt, Arab Rep.",EGY,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2015,1.0,Water
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2015,53.1705429845738,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2015,42.6056314089048,Population
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2016,100.0,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2016,3.75083168416294,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2016,2.30860536985482,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2016,2.58375881264449,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2016,11.769316084742,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2016,38690427662.6818,Agriculture
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,2016,84.27118644,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,2016,14.10169492,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2016,1.627118644,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2016,6065.0,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2016,60.65,Water
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2016,2786765.4,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2016,1478.93755564302,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2016,6.78361585201687,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2016,76.1971630232226,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2016,15.5331605314976,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2016,91.7303235547202,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2016,1.72659124623205,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2016,25.5738249191684,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2016,19.0539897872734,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2016,872.581407763809,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2016,10.3454639403557,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2016,568.042074872897,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2016,20.3753156142534,Trade
+"Egypt, Arab Rep.",EGY,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,2016,98.77,Agriculture
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2016,332441717791.411,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2016,4.34664345601913,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,3270.62877681969,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2016,19.9010851110947,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2016,32.4559533476046,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2016,13.8136062148289,Economy
+"Egypt, Arab Rep.",EGY,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,2016,110.4735883,Water
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2016,24.4424798848453,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2016,2.03468294927084,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2016,101644589.0,Population
+"Egypt, Arab Rep.",EGY,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2016,5.1,Energy
+"Egypt, Arab Rep.",EGY,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2016,9.83820201191428,Water
+"Egypt, Arab Rep.",EGY,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2016,1.0,Water
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2016,54.4832841219458,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2016,42.5210717266225,Population
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2017,100.0,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2017,3.85450680596715,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2017,1.77962389044687,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2017,2.87717300054451,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2017,10.9863806449848,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2017,39944458320.6309,Agriculture
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,2017,79.16129032,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,2017,13.87096774,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2017,6.967741936,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2017,7750.0,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2017,77.5,Water
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2017,2911968.8,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2017,1564.91967674335,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2017,6.47179080340524,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2017,80.8389019416389,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2017,11.2109561732727,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2017,92.0498581149116,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2017,1.65107456341093,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2017,25.0617915703103,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2017,14.1299520398099,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2017,897.218073562481,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2017,15.0140868185672,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2017,574.181976125568,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2017,20.2849074363349,Trade
+"Egypt, Arab Rep.",EGY,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,2017,100.98,Agriculture
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2017,248362771739.13,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2017,4.18122099961561,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,2395.10333299491,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2017,27.8180475395935,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2017,34.3958677753767,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2017,29.5066083940038,Economy
+"Egypt, Arab Rep.",EGY,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,2017,141.1657559,Water
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2017,35.122413632758,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2017,1.99817843887244,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2017,103696057.0,Population
+"Egypt, Arab Rep.",EGY,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2017,4.9,Energy
+"Egypt, Arab Rep.",EGY,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2017,9.64356822169236,Water
+"Egypt, Arab Rep.",EGY,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2017,1.0,Water
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2017,53.1699504909871,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2017,42.4486008687179,Population
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2018,100.0,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2018,3.88065698930132,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2018,1.67525653401973,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2018,2.65494746519455,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2018,10.8302490249024,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2018,41172299558.0389,Agriculture
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,2018,79.16129032,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,2018,13.87096774,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2018,6.967741936,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2018,7750.0,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2018,77.5,Water
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2018,3049000.0,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2018,1557.63378420567,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2018,6.57058584927864,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2018,86.5258171292934,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2018,4.61057723605734,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2018,91.1363943653508,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2018,1.41264841531751,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2018,21.6811988949726,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2018,4.99573458891527,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2018,870.813573488394,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2018,17.9846556084179,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2018,535.290259101344,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2018,18.3309787934642,Trade
+"Egypt, Arab Rep.",EGY,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,2018,96.36,Agriculture
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2018,262588632526.73,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2018,5.33110861887155,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,2484.70315630508,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2018,27.9263640649779,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2018,35.3298750589344,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2018,14.4014657807421,Economy
+"Egypt, Arab Rep.",EGY,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,2018,141.1657559,Water
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2018,37.9391899189919,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2018,1.89713831833082,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2018,105682094.0,Population
+"Egypt, Arab Rep.",EGY,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2018,5.0,Energy
+"Egypt, Arab Rep.",EGY,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2018,9.46234089570556,Water
+"Egypt, Arab Rep.",EGY,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2018,1.0,Water
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2018,51.6422459388796,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2018,42.4577177449969,Population
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2019,100.0,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2019,3.9399266663318,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2019,1.68526824274537,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2019,2.52275353061107,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2019,10.6971354538956,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2019,42547819197.6456,Agriculture
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,2019,79.16129032,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,2019,13.87096774,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2019,6.967741936,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2019,7750.0,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2019,77.5,Water
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2019,3219000.0,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2019,1509.96960963247,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2019,7.6243687764911,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2019,84.403962765418,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2019,3.56121600519175,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2019,87.9651787706098,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2019,1.48541341337281,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2019,21.1580259380101,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2019,-0.531033982389456,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2019,844.783013447092,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2019,16.6440314510364,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2019,504.721963342653,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2019,20.9318510685965,Trade
+"Egypt, Arab Rep.",EGY,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,2019,100.63,Agriculture
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2019,318678815489.749,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2019,5.55209307084221,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,2962.98892023002,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2019,24.4799857040743,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2019,35.825424410293,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2019,9.15279959324803,Economy
+"Egypt, Arab Rep.",EGY,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,2019,141.1657559,Water
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2019,31.3767326661901,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2019,1.75497438173801,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2019,107553158.0,Population
+"Egypt, Arab Rep.",EGY,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2019,6.2,Energy
+"Egypt, Arab Rep.",EGY,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2019,9.29772791980687,Water
+"Egypt, Arab Rep.",EGY,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2019,1.0,Water
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2019,50.7617519656897,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2019,42.4812027332648,Population
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2020,100.0,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2020,3.98915063539102,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2020,1.62489082117608,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2020,2.36293986163382,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2020,11.1668239443487,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2020,44004050586.2554,Agriculture
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,2020,79.16129032,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,2020,13.87096774,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2020,6.967741936,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2020,7750.0,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2020,77.5,Water
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2020,3365000.0,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2020,1431.42132830586,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2020,7.30054374691052,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2020,86.5516559565002,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2020,1.08749382105783,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2020,87.639149777558,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2020,4.54901136925358,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2020,20.379130038761,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2020,-0.0682943718058065,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2020,805.259456646636,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2020,12.4727757370867,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2020,506.627043090638,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2020,23.1079323874632,Trade
+"Egypt, Arab Rep.",EGY,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,2020,104.38,Agriculture
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2020,383817841547.099,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2020,3.55016483883115,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,3511.11381026379,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2020,19.6534798296655,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2020,32.3694442999707,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2020,5.04493288977538,Economy
+"Egypt, Arab Rep.",EGY,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,2020,141.1657559,Water
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2020,22.8144683548418,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2020,1.62495386951696,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2020,109315124.0,Population
+"Egypt, Arab Rep.",EGY,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2020,6.7,Energy
+"Egypt, Arab Rep.",EGY,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2020,9.14786502917931,Water
+"Egypt, Arab Rep.",EGY,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2020,1.0,Water
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2020,52.027108864545,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2020,42.5181534630674,Population
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2021,100.0,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2021,4.04942488321864,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2021,1.41002980498021,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2021,2.20305469786675,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2021,11.4369326589725,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2021,45683273319.1107,Agriculture
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,2021,79.16129032,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,2021,13.87096774,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2021,6.967741936,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2021,7750.0,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2021,77.5,Water
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2021,3077000.0,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2021,1459.17777451244,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2021,7.06345340464627,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2021,81.6083029095872,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2021,6.22959358376457,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2021,87.8378964933517,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2021,5.13248677350746,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2021,19.2891712496112,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2021,1.63521037235886,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2021,857.821938469275,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2021,10.5611502153652,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2021,541.891452713682,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2021,21.2684759245502,Trade
+"Egypt, Arab Rep.",EGY,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,2021,109.2,Agriculture
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2021,424671765455.704,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2021,3.29064601193245,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,3827.35415374308,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2021,19.295823265447,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2021,31.187635785145,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2021,5.21404940513042,Economy
+"Egypt, Arab Rep.",EGY,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,2021,141.1657559,Water
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2021,27.2822470021461,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2021,1.4908053906311,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2021,110957008.0,Population
+"Egypt, Arab Rep.",EGY,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2021,6.1,Energy
+"Egypt, Arab Rep.",EGY,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2021,9.01249968816751,Water
+"Egypt, Arab Rep.",EGY,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2021,1.0,Water
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2021,52.4773050081793,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2021,42.5686062621468,Population
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2022,100.0,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2022,4.07654829474107,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2022,1.0274185998013,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2022,2.30287109168423,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2022,10.9457535224737,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2022,47498695855.7578,Agriculture
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,2022,79.16129032,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,2022,13.87096774,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2022,6.967741936,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2022,7750.0,Water
+"Egypt, Arab Rep.",EGY,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2022,77.5,Water
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2022,3103000.0,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2022,1477.94873388638,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2022,7.38211444235379,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2022,78.9114509212122,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2022,8.57792338035702,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2022,87.4893743015692,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2022,18.9342357113841,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2022,9.78510684497824,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2022,902.48842991302,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2022,15.0870258208479,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2022,532.774734128262,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2022,22.1214154443617,Trade
+"Egypt, Arab Rep.",EGY,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,2022,109.07,Agriculture
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2022,476747720364.741,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2022,6.58784560870466,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,4233.30783744856,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2022,21.8960790564233,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2022,32.7114314313037,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2022,13.8956609775177,Economy
+"Egypt, Arab Rep.",EGY,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,2022,141.1657559,Water
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2022,30.8234300286898,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2022,1.48609697540294,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2022,112618250.0,Population
+"Egypt, Arab Rep.",EGY,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2022,8.87955548945219,Water
+"Egypt, Arab Rep.",EGY,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2022,1.0,Water
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2022,51.4288499840612,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2022,42.6325129008032,Population
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,2023,100.0,Energy
+"Egypt, Arab Rep.",EGY,Agricultural land (% of land area),AG.LND.AGRI.ZS,2023,4.07654829474107,Agriculture
+"Egypt, Arab Rep.",EGY,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2023,1.21468303641588,Trade
+"Egypt, Arab Rep.",EGY,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2023,2.11109100782752,Trade
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2023,10.6003111645036,Agriculture
+"Egypt, Arab Rep.",EGY,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,2023,49461582153.7092,Agriculture
+"Egypt, Arab Rep.",EGY,Arable land (hectares),AG.LND.ARBL.HA,2023,3103000.0,Agriculture
+"Egypt, Arab Rep.",EGY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2023,1492.89603600873,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2023,7.18542276762887,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2023,75.81834239762,Energy
+"Egypt, Arab Rep.",EGY,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2023,11.421001255055,Energy
+"Egypt, Arab Rep.",EGY,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2023,87.2393436526751,Energy
+"Egypt, Arab Rep.",EGY,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2023,18.2880136371241,Agriculture
+"Egypt, Arab Rep.",EGY,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,2023,20.2563785795628,Energy
+"Egypt, Arab Rep.",EGY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2023,928.394947427079,Energy
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,2023,19.1060913405675,Trade
+"Egypt, Arab Rep.",EGY,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2023,532.774734128262,Agriculture
+"Egypt, Arab Rep.",EGY,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,2023,21.6972770278525,Trade
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2023,395926071447.591,Economy
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2023,3.76028052279247,Economy
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,3456.78965212363,Economy
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,2023,21.3443094314354,Trade
+"Egypt, Arab Rep.",EGY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,2023,32.7344752545443,Economy
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2023,33.8847763115546,Economy
+"Egypt, Arab Rep.",EGY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,2023,31.6450491734249,Trade
+"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2023,1.68834126904494,Population
+"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2023,114535772.0,Population
+"Egypt, Arab Rep.",EGY,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,2023,51.648772081848,Economy
+"Egypt, Arab Rep.",EGY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2023,42.7098115041919,Population
